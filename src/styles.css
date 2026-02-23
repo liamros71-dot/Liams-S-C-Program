@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --radius: 18px;
+}
+
+* { -webkit-tap-highlight-color: transparent; }
